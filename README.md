@@ -26,7 +26,8 @@
 
 6. Create Console and Run in digital ocean vps
 
-7. Login domainname.com/wp-admin 
+7. Login domainnamecom/wp-admin 
 
-
-
+     ```sh
+    domainname.com/wp-admin 
+    ```
