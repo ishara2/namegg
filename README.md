@@ -21,13 +21,14 @@
       ```sh
     ns3.digitalocean.com
     ```
-  
-5. Add Domain in to Digital Ocean
+    
+5. Add other DNS records   
+   (`A `)    (`@`)    (`IP`)
+   (`CNAME `)    (`www`)    (`Domain Name`)
+6. Add Domain in to Digital Ocean
 
-6. Create Console and Run in digital ocean vps
+7. Create Console and Run in digital ocean vps
 
-7. Login domainnamecom/wp-admin 
+8. Login (`domainname.com/wp-admin `)
 
-     ```sh
-    domainname.com/wp-admin 
-    ```
+ 
