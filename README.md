@@ -23,8 +23,8 @@
     ```
     
 5. Add other DNS records  
-   `A`    `@`   `IP`
-   (`CNAME `)    (`www`)    (`Domain Name`)
+   A    @  IP
+  CNAME     www`    Domain Name
 6. Add Domain in to Digital Ocean
 
 7. Create Console and Run in digital ocean vps
